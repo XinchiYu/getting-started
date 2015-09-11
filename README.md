@@ -1,4 +1,4 @@
 # getting-started
 Demo repository to get familiar with using Github
 
-# Chloe is here
+# Xinchi Yu is here
